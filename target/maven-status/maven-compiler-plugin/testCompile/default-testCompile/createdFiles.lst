@@ -1,0 +1,13 @@
+testCases\postTests\HTTP_POST_LoginSuccessful_Tests.class
+testCases\getTests\HTTP_GET_ListOfUsers_Tests.class
+testCases\getTests\HTTP_GET_SingleUserNotFound_Tests.class
+testCases\postTests\HTTP_POST_RegisterUnsuccessful_Tests.class
+testCases\getTests\HTTP_GET_SingleUser_Tests.class
+testCases\postTests\HTTP_POST_RegisterSuccessful_Tests.class
+utils\RandomPayloadData.class
+base\Base.class
+testCases\deleteTests\HTTP_DELETE_RemoveUser_Tests.class
+testCases\putTests\HTTP_PUT_UpdateUser_Tests.class
+testCases\postTests\HTTP_POST_CreateNewUser_Tests.class
+testCases\patchTests\HTTP_PATCH_UpdateUserPartial_Tests.class
+testCases\postTests\HTTP_POST_LoginUnsuccessful_Tests.class

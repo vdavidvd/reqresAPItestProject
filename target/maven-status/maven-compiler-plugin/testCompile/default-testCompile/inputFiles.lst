@@ -1,0 +1,13 @@
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\base\Base.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\getTests\HTTP_GET_ListOfUsers_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\patchTests\HTTP_PATCH_UpdateUserPartial_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\putTests\HTTP_PUT_UpdateUser_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\postTests\HTTP_POST_CreateNewUser_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\deleteTests\HTTP_DELETE_RemoveUser_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\getTests\HTTP_GET_SingleUser_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\postTests\HTTP_POST_LoginSuccessful_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\postTests\HTTP_POST_RegisterUnsuccessful_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\getTests\HTTP_GET_SingleUserNotFound_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\utils\RandomPayloadData.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\postTests\HTTP_POST_LoginUnsuccessful_Tests.java
+C:\Users\vuksi\IdeaProjects\ReqResAPITest_Project\src\test\java\testCases\postTests\HTTP_POST_RegisterSuccessful_Tests.java

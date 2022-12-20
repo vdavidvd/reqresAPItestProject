@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ReqRes API Suite">
+    <test verbose="2" preserve-order="true" name="ReqRes API Test">
+        <classes>
+            <class name="testCases.getTests.HTTP_GET_ListOfUsers_Tests"/>
+            <class name="testCases.getTests.HTTP_GET_SingleUser_Tests"/>
+            <class name="testCases.getTests.HTTP_GET_SingleUserNotFound_Tests"/>
+            <class name="testCases.postTests.HTTP_POST_CreateNewUser_Tests"/>
+            <class name="testCases.putTests.HTTP_PUT_UpdateUser_Tests"/>
+            <class name="testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests"/>
+            <class name="testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests"/>
+            <class name="testCases.postTests.HTTP_POST_RegisterSuccessful_Tests"/>
+            <class name="testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests"/>
+            <class name="testCases.postTests.HTTP_POST_LoginSuccessful_Tests"/>
+            <class name="testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests"/>
+        </classes>
+    </test>
+</suite>
