@@ -24,26 +24,5 @@ public class Base {
         RestAssured.baseURI = "https://reqres.in/api";
         prop = new Properties();
         prop.load(new FileInputStream("src/test/java/base/info.properties"));
-        extentReport = getReporter();
-    }
-
-    @AfterSuite
-    public void flushReport(){
-        extentReport.flush();
-    }
-
-    public ExtentReports getReporter(){
-        ExtentReports extentReports = new ExtentReports();
-        ExtentSparkReporter sparkReporter = new ExtentSparkReporter(
-                "extentReports/eReport.html");
-        sparkReporter.config().setReportName("ReqRes Tests");
-        sparkReporter.config().setDocumentTitle("ReqRes Test Project");
-        extentReports.attachReporter(sparkReporter);
-        extentReports.setSystemInfo("Tested By","David");
-        extentReports.setSystemInfo("Operating System",System.getProperty("os.name"));
-        extentReports.setSystemInfo("Operating System Version",System.getProperty("os.version"));
-        extentReports.setSystemInfo("Java Version",System.getProperty("java.version"));
-        extentReports.setSystemInfo("API URL","https://reqres.in/api");
-        return extentReports;
     }
 }

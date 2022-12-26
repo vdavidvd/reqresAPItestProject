@@ -2,288 +2,288 @@
 <testng-results ignored="10" total="62" passed="52" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-20T14:11:45 CET" name="ReqRes API Suite" finished-at="2022-12-20T14:11:50 CET" duration-ms="4924">
+  <suite started-at="2022-12-26T20:25:57 CET" name="ReqRes API Suite" finished-at="2022-12-26T20:26:04 CET" duration-ms="7771">
     <groups>
     </groups>
-    <test started-at="2022-12-20T14:11:45 CET" name="ReqRes API Test" finished-at="2022-12-20T14:11:50 CET" duration-ms="4924">
+    <test started-at="2022-12-26T20:25:57 CET" name="ReqRes API Test" finished-at="2022-12-26T20:26:04 CET" duration-ms="7771">
       <class name="testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests">
-        <test-method is-config="true" signature="updateUserPartial()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@37858383]" started-at="2022-12-20T14:11:48 CET" name="updateUserPartial" finished-at="2022-12-20T14:11:48 CET" duration-ms="232" status="PASS">
+        <test-method is-config="true" signature="updateUserPartial()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@355ce81c]" started-at="2022-12-26T20:26:03 CET" name="updateUserPartial" finished-at="2022-12-26T20:26:03 CET" duration-ms="230" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateUserPartial -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@37858383]" started-at="2022-12-20T14:11:48 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:48 CET" duration-ms="10" status="PASS">
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@355ce81c]" started-at="2022-12-26T20:26:03 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:03 CET" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@37858383]" started-at="2022-12-20T14:11:48 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@355ce81c]" started-at="2022-12-26T20:26:03 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@37858383]" started-at="2022-12-20T14:11:48 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:48 CET" duration-ms="1" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@355ce81c]" started-at="2022-12-26T20:26:03 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@37858383]" started-at="2022-12-20T14:11:48 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@355ce81c]" started-at="2022-12-26T20:26:03 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@37858383]" started-at="2022-12-20T14:11:48 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests@355ce81c]" started-at="2022-12-26T20:26:03 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.patchTests.HTTP_PATCH_UpdateUserPartial_Tests -->
       <class name="testCases.postTests.HTTP_POST_LoginSuccessful_Tests">
-        <test-method is-config="true" signature="loginSuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@2beee7ff]" started-at="2022-12-20T14:11:49 CET" name="loginSuccessful" finished-at="2022-12-20T14:11:49 CET" duration-ms="217" status="PASS">
+        <test-method is-config="true" signature="loginSuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@5fa07e12]" started-at="2022-12-26T20:26:04 CET" name="loginSuccessful" finished-at="2022-12-26T20:26:04 CET" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSuccessful -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@2beee7ff]" started-at="2022-12-20T14:11:49 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@2beee7ff]" started-at="2022-12-20T14:11:49 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@2beee7ff]" started-at="2022-12-20T14:11:49 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@2beee7ff]" started-at="2022-12-20T14:11:49 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@5fa07e12]" started-at="2022-12-26T20:26:04 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@2beee7ff]" started-at="2022-12-20T14:11:49 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@5fa07e12]" started-at="2022-12-26T20:26:04 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:04 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseBody -->
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@5fa07e12]" started-at="2022-12-26T20:26:04 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseTime -->
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@5fa07e12]" started-at="2022-12-26T20:26:04 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:04 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_LoginSuccessful_Tests@5fa07e12]" started-at="2022-12-26T20:26:04 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.postTests.HTTP_POST_LoginSuccessful_Tests -->
       <class name="testCases.getTests.HTTP_GET_SingleUserNotFound_Tests">
-        <test-method is-config="true" signature="getSingleUserNotFound()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@44a7bfbc]" started-at="2022-12-20T14:11:47 CET" name="getSingleUserNotFound" finished-at="2022-12-20T14:11:47 CET" duration-ms="243" status="PASS">
+        <test-method is-config="true" signature="getSingleUserNotFound()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@40cb8df7]" started-at="2022-12-26T20:26:02 CET" name="getSingleUserNotFound" finished-at="2022-12-26T20:26:02 CET" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSingleUserNotFound -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@44a7bfbc]" started-at="2022-12-20T14:11:47 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@40cb8df7]" started-at="2022-12-26T20:26:02 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:02 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@44a7bfbc]" started-at="2022-12-20T14:11:47 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@44a7bfbc]" started-at="2022-12-20T14:11:47 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@40cb8df7]" started-at="2022-12-26T20:26:02 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:02 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@44a7bfbc]" started-at="2022-12-20T14:11:47 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@40cb8df7]" started-at="2022-12-26T20:26:02 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:02 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUserNotFound_Tests@40cb8df7]" started-at="2022-12-26T20:26:02 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:02 CET" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.getTests.HTTP_GET_SingleUserNotFound_Tests -->
       <class name="testCases.putTests.HTTP_PUT_UpdateUser_Tests">
-        <test-method is-config="true" signature="updateUser()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@776b83cc]" started-at="2022-12-20T14:11:48 CET" name="updateUser" finished-at="2022-12-20T14:11:48 CET" duration-ms="233" status="PASS">
+        <test-method is-config="true" signature="updateUser()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@2892dae4]" started-at="2022-12-26T20:26:03 CET" name="updateUser" finished-at="2022-12-26T20:26:03 CET" duration-ms="228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateUser -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@776b83cc]" started-at="2022-12-20T14:11:48 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:48 CET" duration-ms="45" status="PASS">
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@2892dae4]" started-at="2022-12-26T20:26:03 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:03 CET" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@776b83cc]" started-at="2022-12-20T14:11:48 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@776b83cc]" started-at="2022-12-20T14:11:48 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@2892dae4]" started-at="2022-12-26T20:26:03 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@776b83cc]" started-at="2022-12-20T14:11:48 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@2892dae4]" started-at="2022-12-26T20:26:03 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseTime -->
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@2892dae4]" started-at="2022-12-26T20:26:03 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@776b83cc]" started-at="2022-12-20T14:11:48 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.putTests.HTTP_PUT_UpdateUser_Tests@2892dae4]" started-at="2022-12-26T20:26:03 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.putTests.HTTP_PUT_UpdateUser_Tests -->
       <class name="testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests">
-        <test-method is-config="true" signature="loginUnsuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@5136d012]" started-at="2022-12-20T14:11:49 CET" name="loginUnsuccessful" finished-at="2022-12-20T14:11:49 CET" duration-ms="231" status="PASS">
+        <test-method is-config="true" signature="loginUnsuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@55b53d44]" started-at="2022-12-26T20:26:04 CET" name="loginUnsuccessful" finished-at="2022-12-26T20:26:04 CET" duration-ms="232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUnsuccessful -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@5136d012]" started-at="2022-12-20T14:11:49 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:49 CET" duration-ms="24" status="PASS">
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@55b53d44]" started-at="2022-12-26T20:26:04 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:04 CET" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@5136d012]" started-at="2022-12-20T14:11:49 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@55b53d44]" started-at="2022-12-26T20:26:04 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:04 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@5136d012]" started-at="2022-12-20T14:11:49 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@55b53d44]" started-at="2022-12-26T20:26:04 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@5136d012]" started-at="2022-12-20T14:11:49 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@55b53d44]" started-at="2022-12-26T20:26:04 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:04 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@5136d012]" started-at="2022-12-20T14:11:50 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:50 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests@55b53d44]" started-at="2022-12-26T20:26:04 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.postTests.HTTP_POST_LoginUnsuccessful_Tests -->
-      <class name="testCases.postTests.HTTP_POST_CreateNewUser_Tests">
-        <test-method is-config="true" signature="createNewUser()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@4ef37659]" started-at="2022-12-20T14:11:47 CET" name="createNewUser" finished-at="2022-12-20T14:11:48 CET" duration-ms="299" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createNewUser -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@4ef37659]" started-at="2022-12-20T14:11:48 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:48 CET" duration-ms="37" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@4ef37659]" started-at="2022-12-20T14:11:48 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@4ef37659]" started-at="2022-12-20T14:11:48 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:48 CET" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@4ef37659]" started-at="2022-12-20T14:11:48 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:48 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@4ef37659]" started-at="2022-12-20T14:11:48 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:48 CET" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateStatusLine -->
-      </class> <!-- testCases.postTests.HTTP_POST_CreateNewUser_Tests -->
       <class name="testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests">
-        <test-method is-config="true" signature="deleteUser()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@4e268090]" started-at="2022-12-20T14:11:48 CET" name="deleteUser" finished-at="2022-12-20T14:11:49 CET" duration-ms="214" status="PASS">
+        <test-method is-config="true" signature="deleteUser()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@29647f75]" started-at="2022-12-26T20:26:03 CET" name="deleteUser" finished-at="2022-12-26T20:26:03 CET" duration-ms="241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteUser -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@4e268090]" started-at="2022-12-20T14:11:49 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@29647f75]" started-at="2022-12-26T20:26:03 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@4e268090]" started-at="2022-12-20T14:11:49 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@29647f75]" started-at="2022-12-26T20:26:03 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@4e268090]" started-at="2022-12-20T14:11:49 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@29647f75]" started-at="2022-12-26T20:26:03 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@4e268090]" started-at="2022-12-20T14:11:49 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:49 CET" duration-ms="1" status="PASS">
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests@29647f75]" started-at="2022-12-26T20:26:03 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.deleteTests.HTTP_DELETE_RemoveUser_Tests -->
-      <class name="testCases.getTests.HTTP_GET_SingleUser_Tests">
-        <test-method is-config="true" signature="getSingleUser()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@152aa092]" started-at="2022-12-20T14:11:46 CET" name="getSingleUser" finished-at="2022-12-20T14:11:46 CET" duration-ms="219" status="PASS">
+      <class name="testCases.postTests.HTTP_POST_CreateNewUser_Tests">
+        <test-method is-config="true" signature="createNewUser()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@13b13b5d]" started-at="2022-12-26T20:26:02 CET" name="createNewUser" finished-at="2022-12-26T20:26:03 CET" duration-ms="348" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getSingleUser -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@152aa092]" started-at="2022-12-20T14:11:46 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:47 CET" duration-ms="876" status="PASS">
+        </test-method> <!-- createNewUser -->
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@13b13b5d]" started-at="2022-12-26T20:26:03 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:03 CET" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@152aa092]" started-at="2022-12-20T14:11:47 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@13b13b5d]" started-at="2022-12-26T20:26:03 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@152aa092]" started-at="2022-12-20T14:11:47 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@13b13b5d]" started-at="2022-12-26T20:26:03 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@152aa092]" started-at="2022-12-20T14:11:47 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@13b13b5d]" started-at="2022-12-26T20:26:03 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:03 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_CreateNewUser_Tests@13b13b5d]" started-at="2022-12-26T20:26:03 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:03 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@152aa092]" started-at="2022-12-20T14:11:47 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:47 CET" duration-ms="0" status="PASS">
+      </class> <!-- testCases.postTests.HTTP_POST_CreateNewUser_Tests -->
+      <class name="testCases.getTests.HTTP_GET_SingleUser_Tests">
+        <test-method is-config="true" signature="getSingleUser()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@2177849e]" started-at="2022-12-26T20:26:01 CET" name="getSingleUser" finished-at="2022-12-26T20:26:01 CET" duration-ms="217" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateStatusCode -->
-      </class> <!-- testCases.getTests.HTTP_GET_SingleUser_Tests -->
-      <class name="testCases.postTests.HTTP_POST_RegisterSuccessful_Tests">
-        <test-method is-config="true" signature="registerSuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@1bb266b3]" started-at="2022-12-20T14:11:49 CET" name="registerSuccessful" finished-at="2022-12-20T14:11:49 CET" duration-ms="222" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registerSuccessful -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@1bb266b3]" started-at="2022-12-20T14:11:49 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        </test-method> <!-- getSingleUser -->
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@2177849e]" started-at="2022-12-26T20:26:01 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:02 CET" duration-ms="1254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@1bb266b3]" started-at="2022-12-20T14:11:49 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@2177849e]" started-at="2022-12-26T20:26:02 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:02 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@1bb266b3]" started-at="2022-12-20T14:11:49 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@2177849e]" started-at="2022-12-26T20:26:02 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:02 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@1bb266b3]" started-at="2022-12-20T14:11:49 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@2177849e]" started-at="2022-12-26T20:26:02 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:02 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@1bb266b3]" started-at="2022-12-20T14:11:49 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.getTests.HTTP_GET_SingleUser_Tests@2177849e]" started-at="2022-12-26T20:26:02 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:02 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusLine -->
+      </class> <!-- testCases.getTests.HTTP_GET_SingleUser_Tests -->
+      <class name="testCases.postTests.HTTP_POST_RegisterSuccessful_Tests">
+        <test-method is-config="true" signature="registerSuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@3315d2d7]" started-at="2022-12-26T20:26:03 CET" name="registerSuccessful" finished-at="2022-12-26T20:26:04 CET" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSuccessful -->
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@3315d2d7]" started-at="2022-12-26T20:26:04 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseBody -->
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@3315d2d7]" started-at="2022-12-26T20:26:04 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseHeaders -->
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@3315d2d7]" started-at="2022-12-26T20:26:04 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseTime -->
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@3315d2d7]" started-at="2022-12-26T20:26:04 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterSuccessful_Tests@3315d2d7]" started-at="2022-12-26T20:26:04 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.postTests.HTTP_POST_RegisterSuccessful_Tests -->
-      <class name="testCases.getTests.HTTP_GET_ListOfUsers_Tests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@68e965f5]" started-at="2022-12-20T14:11:44 CET" name="setup" finished-at="2022-12-20T14:11:45 CET" duration-ms="883" status="PASS">
+      <class name="testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests">
+        <test-method is-config="true" signature="registerUnsuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@d6e7bab]" started-at="2022-12-26T20:26:04 CET" name="registerUnsuccessful" finished-at="2022-12-26T20:26:04 CET" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getListOfUsers()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@68e965f5]" started-at="2022-12-20T14:11:45 CET" name="getListOfUsers" finished-at="2022-12-20T14:11:46 CET" duration-ms="1496" status="PASS">
+        </test-method> <!-- registerUnsuccessful -->
+        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@d6e7bab]" started-at="2022-12-26T20:26:04 CET" name="validateResponseBody" finished-at="2022-12-26T20:26:04 CET" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getListOfUsers -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@68e965f5]" started-at="2022-12-20T14:11:46 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:46 CET" duration-ms="4" status="PASS">
+        </test-method> <!-- validateResponseBody -->
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@d6e7bab]" started-at="2022-12-26T20:26:04 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@68e965f5]" started-at="2022-12-20T14:11:46 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:46 CET" duration-ms="0" status="PASS">
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@d6e7bab]" started-at="2022-12-26T20:26:04 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:04 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@68e965f5]" started-at="2022-12-20T14:11:46 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:46 CET" duration-ms="1" status="PASS">
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@d6e7bab]" started-at="2022-12-26T20:26:04 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:04 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusLine -->
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@d6e7bab]" started-at="2022-12-26T20:26:04 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:04 CET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@68e965f5]" started-at="2022-12-20T14:11:46 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:46 CET" duration-ms="0" status="PASS">
+      </class> <!-- testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests -->
+      <class name="testCases.getTests.HTTP_GET_ListOfUsers_Tests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@37858383]" started-at="2022-12-26T20:25:56 CET" name="setup" finished-at="2022-12-26T20:25:57 CET" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getListOfUsers()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@37858383]" started-at="2022-12-26T20:25:57 CET" name="getListOfUsers" finished-at="2022-12-26T20:26:00 CET" duration-ms="3484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers -->
+        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@37858383]" started-at="2022-12-26T20:26:00 CET" name="validateResponseHeaders" finished-at="2022-12-26T20:26:01 CET" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseHeaders -->
+        <test-method signature="validateResponseTime()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@37858383]" started-at="2022-12-26T20:26:01 CET" name="validateResponseTime" finished-at="2022-12-26T20:26:01 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseTime -->
+        <test-method signature="validateStatusCode()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@37858383]" started-at="2022-12-26T20:26:01 CET" name="validateStatusCode" finished-at="2022-12-26T20:26:01 CET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:0, instance:testCases.getTests.HTTP_GET_ListOfUsers_Tests@37858383]" started-at="2022-12-26T20:26:01 CET" name="validateStatusLine" finished-at="2022-12-26T20:26:01 CET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateStatusLine -->
       </class> <!-- testCases.getTests.HTTP_GET_ListOfUsers_Tests -->
-      <class name="testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests">
-        <test-method is-config="true" signature="registerUnsuccessful()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@306cf3ea]" started-at="2022-12-20T14:11:49 CET" name="registerUnsuccessful" finished-at="2022-12-20T14:11:49 CET" duration-ms="228" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registerUnsuccessful -->
-        <test-method signature="validateResponseBody()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@306cf3ea]" started-at="2022-12-20T14:11:49 CET" name="validateResponseBody" finished-at="2022-12-20T14:11:49 CET" duration-ms="25" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseBody -->
-        <test-method signature="validateResponseHeaders()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@306cf3ea]" started-at="2022-12-20T14:11:49 CET" name="validateResponseHeaders" finished-at="2022-12-20T14:11:49 CET" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseHeaders -->
-        <test-method signature="validateStatusCode()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@306cf3ea]" started-at="2022-12-20T14:11:49 CET" name="validateStatusCode" finished-at="2022-12-20T14:11:49 CET" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateStatusCode -->
-        <test-method signature="validateResponseTime()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@306cf3ea]" started-at="2022-12-20T14:11:49 CET" name="validateResponseTime" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateResponseTime -->
-        <test-method signature="validateStatusLine()[pri:0, instance:testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests@306cf3ea]" started-at="2022-12-20T14:11:49 CET" name="validateStatusLine" finished-at="2022-12-20T14:11:49 CET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateStatusLine -->
-      </class> <!-- testCases.postTests.HTTP_POST_RegisterUnsuccessful_Tests -->
     </test> <!-- ReqRes API Test -->
   </suite> <!-- ReqRes API Suite -->
 </testng-results>
