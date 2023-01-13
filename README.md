@@ -21,5 +21,4 @@ if you want to start this project in command prompt then you need to position yo
 command promp and run command mvn test. After that project will start and when all tests are finished you will get Extent Report in HTML located in 
 ExtentReports folder under project directory.
 
-This is screenshot of the report:
-https://user-images.githubusercontent.com/97592838/212358983-23e4e558-1407-4f2a-adbd-31e7d49e2576.PNG
+![reqResHTMLReport](https://user-images.githubusercontent.com/97592838/212359348-2a238f91-e40f-4cd0-9024-aa11bb37a7ef.PNG)
